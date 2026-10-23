@@ -1,0 +1,8 @@
+{
+  "name": "bookkeeper",
+  "private": true,
+  "scripts": {
+    "start": "node bin/categorize.js",
+    "test": "node --test"
+  }
+}
